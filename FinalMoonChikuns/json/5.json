@@ -1,0 +1,75 @@
+{
+  "name": "MoonChikuns #5",
+  "description": "MoonChikuns are ready to battle fiat money villains at the IMF",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "eede4a084b5efa54fb7a56193c7bacfec2da3422",
+  "edition": 5,
+  "date": 1654967630296,
+  "attributes": [
+    {
+      "trait_type": "000 Background",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "000 02 Effects over Background",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "001 Rocket",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "002 Body with Shield Wing",
+      "value": "LTC Labs"
+    },
+    {
+      "trait_type": "003 Heads Pair with wings color",
+      "value": "2"
+    },
+    {
+      "trait_type": "004 Wings Pair with head color",
+      "value": "3"
+    },
+    {
+      "trait_type": "004 01 Tattoos",
+      "value": "218"
+    },
+    {
+      "trait_type": "005 Eyes",
+      "value": "26"
+    },
+    {
+      "trait_type": "006 Sunglasses",
+      "value": "00_Blank"
+    },
+    {
+      "trait_type": "007 Shields",
+      "value": "06"
+    },
+    {
+      "trait_type": "008 01 Astronaut Helmet  Use without beak",
+      "value": "01"
+    },
+    {
+      "trait_type": "008 02 Weapon",
+      "value": "03"
+    },
+    {
+      "trait_type": "009 Beak",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "010 Mohawk",
+      "value": "15"
+    },
+    {
+      "trait_type": "011 Signatures",
+      "value": "01"
+    },
+    {
+      "trait_type": "012 Laser",
+      "value": "00_Blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
