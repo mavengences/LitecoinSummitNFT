@@ -30,6 +30,14 @@ Before you can run hashlibs it is important to install Node Js from the followin
 https://nodejs.org/en/download/
 ```
 
+After you download Hashlibs, it is important to find a graphic designer to generate cartoon layers that are smashed together using hashlibs.
+
+A good graphic designer can be found on fiveerr by searching for graphic designers. Here is the one I hired for this demo (charge $200)
+
+```
+https://www.fiverr.com/yogadanu?source=order_page_user_message_link
+```
+
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
