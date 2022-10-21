@@ -1,9 +1,5 @@
 # Welcome to HashLips 👄
 
-Before you can run hashlibs it is important to install Node Js from the following link:
-
-https://nodejs.org/en/download/
-
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
@@ -27,6 +23,12 @@ To find out more please visit:
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
 
 ## Installation 🛠️
+
+Before you can run hashlibs it is important to install Node Js from the following link:
+
+```
+https://nodejs.org/en/download/
+```
 
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
